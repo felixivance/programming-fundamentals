@@ -7,7 +7,7 @@ function strictCheck(a, b) {
     	console.log("Equal");
     	return true;
     }else {
-    	console.log("Not true");
+    	console.log("Not true"); // not true
     	return false;
     }
 }
